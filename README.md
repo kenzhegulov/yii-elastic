@@ -29,7 +29,7 @@ Apart for enabling an application for speedy searches using elasticsearch, the t
 ## Installation
 
 ```
-$ composer require dimvic/yii-elastic:dev-master
+$ composer require kenzhegulov/yii-elastic:dev-master
 $ composer update
 ```
 
